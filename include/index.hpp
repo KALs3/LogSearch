@@ -64,6 +64,6 @@ private:
 // Shared pointer type for passing index around
 using IndexPtr = std::shared_ptr<InvertedIndex>;
 
-} // namespace logagg
+} 
 
-#endif // LOG_AGGREGATOR_INDEX_HPP
+#endif 

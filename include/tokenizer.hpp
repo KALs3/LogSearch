@@ -33,6 +33,6 @@ private:
     static bool is_alphanumeric(char c);
 };
 
-} // namespace logagg
+} 
 
-#endif // LOG_AGGREGATOR_TOKENIZER_HPP
+#endif 
